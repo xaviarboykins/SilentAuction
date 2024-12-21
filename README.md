@@ -56,10 +56,3 @@ This Python program simulates a **Silent Auction**, where participants anonymous
 
 ## Setup
 1. Ensure both `silent_auction.py` and `art.py` are in the same directory.
-2. The `art.py` file should contain a variable `logo` with the desired ASCII art. Example:
-   ```python
-   logo = '''
-   **************************
-        SILENT AUCTION
-   **************************
-   '''
